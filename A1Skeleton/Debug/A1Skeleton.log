@@ -1,0 +1,31 @@
+﻿C:\Program Files\Microsoft Visual Studio\2017\Professional\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (A1Skeleton.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Vector3D.c
+c:\users\taranpreet\downloads\a1skeleton\a1skeleton\vector3d.c(51): warning C4028: formal parameter 1 different from declaration
+  QuadMesh.c
+  main.c
+c:\users\taranpreet\downloads\a1skeleton\a1skeleton\main.c(182): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\taranpreet\downloads\a1skeleton\a1skeleton\main.c(184): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\taranpreet\downloads\a1skeleton\a1skeleton\main.c(189): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\taranpreet\downloads\a1skeleton\a1skeleton\main.c(192): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\taranpreet\downloads\a1skeleton\a1skeleton\main.c(201): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\taranpreet\downloads\a1skeleton\a1skeleton\main.c(209): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\taranpreet\downloads\a1skeleton\a1skeleton\main.c(216): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\taranpreet\downloads\a1skeleton\a1skeleton\main.c(220): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\taranpreet\downloads\a1skeleton\a1skeleton\main.c(226): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\taranpreet\downloads\a1skeleton\a1skeleton\main.c(229): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\taranpreet\downloads\a1skeleton\a1skeleton\main.c(260): warning C4244: '+=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\taranpreet\downloads\a1skeleton\a1skeleton\main.c(266): warning C4244: '+=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\taranpreet\downloads\a1skeleton\a1skeleton\main.c(272): warning C4244: '+=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\taranpreet\downloads\a1skeleton\a1skeleton\main.c(273): warning C4244: '+=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\taranpreet\downloads\a1skeleton\a1skeleton\main.c(275): warning C4113: 'void (__cdecl *)()' differs in parameter lists from 'void (__cdecl *)(int)'
+c:\users\taranpreet\downloads\a1skeleton\a1skeleton\main.c(291): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+c:\users\taranpreet\downloads\a1skeleton\a1skeleton\main.c(293): warning C4305: '=': truncation from 'double' to 'GLfloat'
+c:\users\taranpreet\downloads\a1skeleton\a1skeleton\main.c(305): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+c:\users\taranpreet\downloads\a1skeleton\a1skeleton\main.c(307): warning C4305: '=': truncation from 'double' to 'GLfloat'
+c:\users\taranpreet\downloads\a1skeleton\a1skeleton\main.c(335): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+c:\users\taranpreet\downloads\a1skeleton\a1skeleton\main.c(340): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+  CubeMesh.c
+c:\users\taranpreet\downloads\a1skeleton\a1skeleton\cubemesh.c(44): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\taranpreet\downloads\a1skeleton\a1skeleton\cubemesh.c(49): warning C4305: '=': truncation from 'double' to 'float'
+  Generating Code...
+  A1Skeleton.vcxproj -> C:\Users\taranpreet\Downloads\A1Skeleton\Debug\A1.exe
